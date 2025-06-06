@@ -21,3 +21,8 @@ Quinta tela: Mostrando os integrantes com um Pop Up na tela
 
 ![Tela principal do Aplicativo mostrando os integrantes](images/telaIntegrantes.png)
 
+
+## Integrantes 
+
+Gabriel Iruela Del Pozo - 551425
+Vinicius Toffoli Pereira - 551170
